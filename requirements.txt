@@ -1,0 +1,6 @@
+laspy
+numpy
+pandas
+pyvista
+pytest
+matplotlib
