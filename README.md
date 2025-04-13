@@ -34,6 +34,8 @@ A Python application for processing LiDAR point cloud data to extract tree metri
 │   ├── __init__.py
 │   ├── test_metrics.py     # Tests for metrics calculations
 │   ├── test_preprocessing.py # Tests for preprocessing functions
+│   ├── test_processor.py   # Tests for full processing pipeline
+│   ├── test_exporter.py    # Tests for export functionality
 │   └── test_io.py          # Tests for I/O functions
 ├── data/                   # Directory for input data
 ├── outputs/                # Directory for results (CSV, visualizations)
